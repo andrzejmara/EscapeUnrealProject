@@ -18,4 +18,8 @@ Escape/Content/StarterContent/
 ############
 *.db-wal
 *.opendb
+<<<<<<< .merge_file_a02448
 *.db-shm
+=======
+*.db-shm
+>>>>>>> .merge_file_a17636
