@@ -1,0 +1,21 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+Escape/Content/StarterContent/
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+
+############
+# Ignore DB#
+############
+*.db-wal
+*.opendb
+*.db-shm
